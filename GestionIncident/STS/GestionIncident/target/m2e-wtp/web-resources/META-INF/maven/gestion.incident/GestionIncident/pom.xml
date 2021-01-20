@@ -10,7 +10,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 <properties>
 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 <springframework.version>4.3.0.RELEASE</springframework.version>
-<jackson.library>2.7.5</jackson.library>
+<jackson.library>2.9.10.7</jackson.library>
 <java.version>1.7</java.version>
 </properties>
 <dependencies>
